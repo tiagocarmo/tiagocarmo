@@ -1,5 +1,5 @@
 <h1>Opa! Bão?</h1>
-<h2>Sou Dev. Web Sr / Tech Lead. Atualmente focado em stack JavaScript (NextJS, React, Node).</h2>
+<h2>Sou Dev. Web Sr / Tech Lead. Atualmente focado na stack JS (NextJS, React, Node).</h2>
 
 - 🔭 Atualmente estou trabalhando na [minu.co](https://github.com/Minutrade)
 - 👨‍💻 Alguns projetos (POC's e estudos) estão disponíveis aqui
