@@ -1,7 +1,7 @@
 <h1>Opa! Bão?</h1>
 <h2>Sou Dev Sr / Tech Lead. Atualmente na stack JS (NextJS, React, Node).</h2>
 
-- 🔭 Atualmente estou trabalhando na [minu.co](https://github.com/Minutrade)
+- 🔭 Trabalhando na [minu.co](https://github.com/Minutrade)
 - 👨‍💻 Alguns projetos (POC's e estudos) estão disponíveis aqui
 [https://github.com/tiagocarmo?tab=repositories](https://github.com/tiagocarmo?tab=repositories)
 - ⚡ Fun fact: Comecei com PHP em 2008 🤪
