@@ -1,5 +1,5 @@
 <h1>Opa! Bão?</h1>
-<h2>Atuo como Tech Lead na [minu.co](https://github.com/Minutrade). Atualmente na stack JS (React, NextJS, NodeJS).</h2>
+<h2>Atuo como Tech Lead na Minu. Atualmente na stack JS (React, NextJS, NodeJS).</h2>
 
 - 🔭 Trabalhando na [minu.co](https://github.com/Minutrade)
 - 👨‍💻 Alguns projetos (POC's e estudos) estão disponíveis aqui
