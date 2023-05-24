@@ -12,21 +12,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table border=0>
+<table border=0 width=100%>
   <tr>
-    <td width=50%>
+    <td width=50% valign=top>
       <h4>Front-end</h4>
       <ul>
         <li>HTML / CSS</li>
-        <li>JS (...e alguns frameworks: React, NextJS, Gatsby)</li>
+        <li>JS (React, NextJS, Gatsby)</li>
       </ul>
       <h4>Back-end</h4>
       <ul>
-        <li>NodeJS (express REST, apollo GraphQL)</li>
+        <li>NodeJS (express, apollo)</li>
         <li>PHP (CodeIgniter, Cake)</li>
-      </ul>  
+      </ul>
+      ___________________________________
     </td>
-    <td width=50%>
+    <td width=50% valign=top>
       <h4>DBs</h4>
       <ul>
         <li>MongoDB</li>
@@ -37,6 +38,7 @@
         <li>Jest (+RTL)</li>
         <li>Mocha (+chai, sinon)</li>
       </ul>
+      ___________________________________
     </td>
   </tr>
 </table>
