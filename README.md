@@ -10,7 +10,7 @@
   <li><a href="https://linkedin.com/in/tiagoscarmo" target="blank">LinkedIn</a></li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tecnologias:</h3>
 
 <table border=0 width=100%>
   <tr>
@@ -23,7 +23,7 @@
       <h4>Back-end</h4>
       <ul>
         <li>NodeJS (express, apollo)</li>
-        <li>PHP (CodeIgniter, Cake)</li>
+        <li>PHP (codeigniter, cake)</li>
       </ul>
       ___________________________________
     </td>
@@ -35,7 +35,7 @@
       </ul>
       <h4>Testes</h4>
       <ul>
-        <li>Jest (+RTL)</li>
+        <li>Jest (+rtl)</li>
         <li>Mocha (+chai, sinon)</li>
       </ul>
       ___________________________________
