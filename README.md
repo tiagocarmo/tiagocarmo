@@ -43,4 +43,4 @@
   </tr>
 </table>
 
-...e algumas outras coisas ;)
+Tambem uso um pouquinho de Docker, Kubernets, Amplitude, Apache Kafka e algumas outras coisasinhas a mais ;)
