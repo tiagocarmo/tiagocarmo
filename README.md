@@ -23,6 +23,7 @@
       <h4>Back-end</h4>
       <ul>
         <li>NodeJS (express, apollo)</li>
+        <li>Mensageria / Event Streaming (kafka c/ nodejs)</li>
         <li>PHP (codeigniter, cake)</li>
       </ul>
       ___________________________________
@@ -32,6 +33,7 @@
       <ul>
         <li>MongoDB</li>
         <li>MySQL</li>
+        <li>Redis</li>
       </ul>
       <h4>Testes</h4>
       <ul>
