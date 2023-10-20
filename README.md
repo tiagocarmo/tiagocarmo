@@ -1,5 +1,5 @@
 <h1>Opa! Bão?</h1>
-<h2>Atuo como Tech Lead na Minu. Atualmente na stack JS (React, NextJS, NodeJS).</h2>
+<h2>Atuo como Tech Lead na Minu.<br />Atualmente na stack JS [NextJS (React), NodeJS].</h2>
 
 - 🔭 Trabalhando na [minu.co](https://github.com/Minutrade)
 - 👨‍💻 Alguns projetos (POC's e estudos) estão [disponíveis aqui](https://github.com/tiagocarmo?tab=repositories)
@@ -23,7 +23,7 @@
       <h4>Back-end</h4>
       <ul>
         <li>NodeJS (express, apollo)</li>
-        <li>Mensageria / Event Streaming (kafka c/ nodejs)</li>
+        <li>Mensageria / Event Streams (kafka)</li>
         <li>PHP (codeigniter, cake)</li>
       </ul>
       ___________________________________
