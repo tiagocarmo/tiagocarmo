@@ -45,4 +45,4 @@
   </tr>
 </table>
 
-Tambem uso um pouquinho de Docker, Kubernets, Amplitude, Apache Kafka e algumas outras coisasinhas a mais ;)
+Tambem uso um pouquinho de Docker, Kubernets, Amplitude, Segment, Apache Kafka e algumas outras coisasinhas a mais ;)
