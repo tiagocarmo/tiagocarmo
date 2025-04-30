@@ -16,23 +16,36 @@ Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a 
 
 > 🧠 **Minha missão**: Conectar tecnologia, inteligência e pessoas para escalar decisões e criar soluções que realmente façam a diferença.
 
-### 🧭 Minhas principais frentes de atuação incluem:
-- **Gestão de Pessoas**: condução de 1:1s, feedbacks estruturados, PDI, onboarding e retenção de talentos  
-- **Excelência Técnica**: definição de arquitetura, padrões, segurança, escalabilidade e boas práticas  
-- **Cultura de Entrega**: acompanhamento de iniciativas, remoção de impedimentos e previsibilidade operacional  
-- **Métricas e Eficiência**: construção de indicadores e análises para decisões estratégicas  
-- **Integração de IA**: uso de agentes de IA para automação de processos e apoio à engenharia
+---
+
+### 🧭 Frentes de Atuação
+
+- **Gestão de Pessoas**: condução de 1:1s, feedbacks estruturados, PDIs, onboarding e retenção de talentos.  
+- **Evolução Técnica e Cultural**: facilitação de code reviews, resolução de conflitos, coaching de boas práticas.  
+- **Processo e Métricas**: acompanhamento de *control charts*, *lead time*, satisfação da equipe e evolução contínua com base em dados.  
+- **Desenho Estratégico**: atuação com lideranças de Produto e Engenharia para co-criar soluções de negócio relevantes e viáveis.  
+- **Colaboração Interdepartamental**: contribuição em iniciativas de impacto com times comerciais, de dados e operações.  
+- **Integração de IA**: uso de agentes de IA para automação de processos, apoio a revisões de código e análise de eficiência.  
+
+---
+
+## 💼 Atuação em Grandes Ambientes
+
+Na Minu, contribuo com soluções utilizadas por empresas como:
+**Banco do Brasil, Caixa, Itaú, Bradesco, Carrefour, Kwai, CredSystem**, entre outras.
+
+Ambientes de grande escala exigem **eficiência, segurança e rastreabilidade**, e minha atuação foca em manter essas entregas sustentáveis, com times bem alinhados.
 
 ---
 
 ## 💡 Como posso contribuir
 
-✔️ Coordenação de times técnicos com rituais consistentes e cultura de evolução contínua  
-✔️ Mentoria técnica individualizada e desenvolvimento de talentos  
-✔️ Integração de IA no fluxo de desenvolvimento para reduzir custos e aumentar performance  
-✔️ Organização de arquiteturas orientadas a eventos com rastreabilidade e escalabilidade  
-✔️ Clareza na comunicação técnica, documentação e decisões estratégicas  
-✔️ Conexão constante entre engenharia, produto e visão de negócio
+✔️ Coordenação de squads com cultura de melhoria contínua  
+✔️ Gestão estruturada com rituais, métricas e foco em pessoas  
+✔️ Integração de IA aplicada ao ciclo de engenharia  
+✔️ Comunicação clara e alinhamento técnico com áreas parceiras  
+✔️ Capacidade de escuta ativa e resolução de conflitos técnicos e interpessoais  
+✔️ Participação ativa em planejamento estratégico e definição de arquitetura  
 
 ---
 
@@ -44,7 +57,7 @@ Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a 
 | **Front-end**            | React, Next.js (App Router), Styled Components                                            |
 | **Arquitetura de eventos** | Apache Kafka, CloudEvents, MongoDB, Segment                                              |
 | **Infraestrutura e automação** | Docker, GitHub Actions, CI/CD                                                  |
-| **IA aplicada à engenharia** | OpenAI GPT, Function Calling, Orquestração com agentes                         |
+| **IA aplicada à engenharia** | Agentes com OpenAI, Function Calling, Orquestração via APIs                         |
 | **Outros conhecimentos** | PHP 5, CodeIgniter, WordPress, HTML/CSS, Bootstrap, Zurb Foundation                      |
 
 ---
@@ -52,15 +65,23 @@ Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a 
 ## 🚀 Projetos em Destaque
 
 ### 🤖 Criação de Orquestrador IA em JS
-> Desenvolvimento de orquestrador com Node.js capaz de interagir com agentes especializados para apoiar decisões técnicas automatizadas. Aplicado em projetos internos para otimizar revisões e acelerar o ciclo de desenvolvimento.
+> Desenvolvimento de um orquestrador em Node.js que interage com agentes de IA especializados, automatizando etapas de revisão e análise técnica no ciclo de desenvolvimento.  
+> Projeto utilizado internamente na Minu para **ganho de eficiência, padronização e aceleração de decisões técnicas.**
 
-> 💡 A maioria dos projetos que atuo são internos da Minu, voltados à automação, orquestração e padronização da engenharia.
+> 🏢 **A maioria dos projetos que atuo são internos**, voltados à automação, rastreabilidade e padronização da engenharia em contextos de grande escala.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Pós-graduação em Liderança e Gestão de Pessoas** – Descomplica (2022–2023)  
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Centro Universitário UNA (2010–2012)
 
 ---
 
 ## 📬 Vamos conversar?
 
-Se quiser bater um papo sobre liderança técnica, engenharia escalável ou integração de IA no fluxo de desenvolvimento, é só chamar.
+Se quiser bater um papo sobre liderança técnica, engenharia escalável, métricas de eficiência ou integração de IA no fluxo de desenvolvimento — estou por aqui.
 
 | 📍 | **[linkedin.com/in/tiagoscarmo](https://www.linkedin.com/in/tiagoscarmo/)** |
 |----|---------------------------------------------------------------------------|
