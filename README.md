@@ -1,5 +1,5 @@
 <h1 align="center">Tiago Carmo</h1>
-<h3 align="center">Coord. de Desenvolvimento de Software • IA no ciclo de desenvolvimento • Performance de times técnicos</h3>
+<h3 align="center">Gerente de Desenvolvimento de Software • IA no ciclo de desenvolvimento • Performance de times técnicos</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiagoscarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 ## 👋 Sobre mim
 
-Atualmente sou Coordenador de Desenvolvimento de Software na [Minu](https://minu.co), onde lidero a gestão de times técnicos com escopos distintos, somando mais de 10 profissionais. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
+Atualmente sou Gerente de Desenvolvimento de Software na [Minu](https://minu.co), onde lidero a gestão de times técnicos com escopos distintos, somando mais de 20 profissionais. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
 
 Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a liderança com foco em **formar times de alta performance**, capazes de entregar soluções escaláveis e sustentáveis, sempre alinhadas às necessidades do negócio.
 
