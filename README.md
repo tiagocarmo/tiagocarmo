@@ -10,7 +10,7 @@
 
 ## 👋 Sobre mim
 
-Atualmente sou Gerente de Desenvolvimento de Software na [Minu](https://minu.co), onde lidero a gestão de times técnicos com escopos distintos, somando mais de 20 profissionais. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
+Atualmente sou Gerente de Desenvolvimento de Software, onde lidero a gestão de times técnicos com escopos distintos. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
 
 Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a liderança com foco em **formar times de alta performance**, capazes de entregar soluções escaláveis e sustentáveis, sempre alinhadas às necessidades do negócio.
 
@@ -31,7 +31,7 @@ Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a 
 
 ## 💼 Atuação em Grandes Ambientes
 
-Na Minu, contribuo com soluções utilizadas por empresas como:
+Na Minu, atuei com soluções utilizadas por empresas como:
 **Banco do Brasil, Caixa, Itaú, Bradesco, Carrefour, Kwai, CredSystem**, entre outras.
 
 Ambientes de grande escala exigem **eficiência, segurança e rastreabilidade**, e minha atuação foca em manter essas entregas sustentáveis, com times bem alinhados.
@@ -59,16 +59,6 @@ Ambientes de grande escala exigem **eficiência, segurança e rastreabilidade**,
 | **Infraestrutura e automação** | Docker, GitHub Actions, CI/CD                                                  |
 | **IA aplicada à engenharia** | Agentes com OpenAI, Function Calling, Orquestração via APIs                         |
 | **Outros conhecimentos** | PHP 5, CodeIgniter, WordPress, HTML/CSS, Bootstrap, Zurb Foundation                      |
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🤖 Criação de Orquestrador IA em JS
-> Desenvolvimento de um orquestrador em Node.js que interage com agentes de IA especializados, automatizando etapas de revisão e análise técnica no ciclo de desenvolvimento.  
-> Projeto utilizado internamente na Minu para **ganho de eficiência, padronização e aceleração de decisões técnicas.**
-
-> 🏢 **A maioria dos projetos que atuo são internos**, voltados à automação, rastreabilidade e padronização da engenharia em contextos de grande escala.
 
 ---
 
