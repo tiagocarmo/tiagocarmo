@@ -1,5 +1,5 @@
 <h1 align="center">Tiago Carmo</h1>
-<h3 align="center">Gerente de Desenvolvimento de Software • IA no ciclo de desenvolvimento • Performance de times técnicos</h3>
+<h3 align="center">Tech Manager | Pós-graduação em Liderança e Gestão de Pessoas</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiagoscarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,9 +10,9 @@
 
 ## 👋 Sobre mim
 
-Atualmente sou Gerente de Desenvolvimento de Software, onde lidero a gestão de times técnicos com escopos distintos. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
+Atualmente sou Tech Manager na Contabilizei, onde lidero o time de impostos. Minha missão é alinhar a entrega de soluções técnicas de alta qualidade às estratégias da organização, promovendo um ambiente colaborativo, eficiente e orientado a resultados.
 
-Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a liderança com foco em **formar times de alta performance**, capazes de entregar soluções escaláveis e sustentáveis, sempre alinhadas às necessidades do negócio.
+Tenho trajetória técnica desde 2008 e, ao longo dos anos, ampliei minha atuação para a liderança, com foco em formar times de alta performance, capazes de entregar soluções escaláveis e sustentáveis, sempre alinhadas às necessidades do negócio.
 
 > 🧠 **Minha missão**: Conectar tecnologia, inteligência e pessoas para escalar decisões e criar soluções que realmente façam a diferença.
 
@@ -29,9 +29,15 @@ Tenho trajetória técnica desde 2008, e ao longo dos anos, transicionei para a 
 
 ---
 
-## 💼 Atuação em Grandes Ambientes
+## 💼 Contabilizei
 
-Na Minu, atuei com soluções utilizadas por empresas como:
+Atualmente estou na Contabilizei como Tech Manager do time de Impostos.
+
+---
+
+## 💼 Minu
+
+Atuei com soluções utilizadas por empresas como:
 **Banco do Brasil, Caixa, Itaú, Bradesco, Carrefour, Kwai, CredSystem**, entre outras.
 
 Ambientes de grande escala exigem **eficiência, segurança e rastreabilidade**, e minha atuação foca em manter essas entregas sustentáveis, com times bem alinhados.
@@ -46,19 +52,6 @@ Ambientes de grande escala exigem **eficiência, segurança e rastreabilidade**,
 ✔️ Comunicação clara e alinhamento técnico com áreas parceiras  
 ✔️ Capacidade de escuta ativa e resolução de conflitos técnicos e interpessoais  
 ✔️ Participação ativa em planejamento estratégico e definição de arquitetura  
-
----
-
-## 🧠 Stack e Expertise
-
-| Área                     | Tecnologias & Ferramentas                                                                 |
-|--------------------------|--------------------------------------------------------------------------------------------|
-| **Back-end**             | Node.js, Express, Apollo Server, Kafka, Redis                                             |
-| **Front-end**            | React, Next.js (App Router), Styled Components                                            |
-| **Arquitetura de eventos** | Apache Kafka, CloudEvents, MongoDB, Segment                                              |
-| **Infraestrutura e automação** | Docker, GitHub Actions, CI/CD                                                  |
-| **IA aplicada à engenharia** | Agentes com OpenAI, Function Calling, Orquestração via APIs                         |
-| **Outros conhecimentos** | PHP 5, CodeIgniter, WordPress, HTML/CSS, Bootstrap, Zurb Foundation                      |
 
 ---
 
@@ -80,4 +73,3 @@ Se quiser bater um papo sobre liderança técnica, engenharia escalável, métri
 ---
 
 > ✍️ _Mineiro, curioso e pragmático. Acredito que o futuro do desenvolvimento está na interseção entre boas decisões humanas e sistemas inteligentes que ampliam nosso impacto._  
-> _E não, camisa polo não faz parte da stack._ 😄
